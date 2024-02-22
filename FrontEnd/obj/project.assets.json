@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\patel\\.nuget\\packages\\": {}
+    "C:\\Users\\Intern017\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patel\\Desktop\\Internship\\GitMVC\\GitMvcDemoCasePoint\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "D:\\GitHubMvc\\GitMvcDemoCasePoint\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "C:\\Users\\patel\\Desktop\\Internship\\GitMVC\\GitMvcDemoCasePoint\\FrontEnd\\FrontEnd.csproj",
-      "packagesPath": "C:\\Users\\patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patel\\Desktop\\Internship\\GitMVC\\GitMvcDemoCasePoint\\FrontEnd\\obj\\",
+      "projectPath": "D:\\GitHubMvc\\GitMvcDemoCasePoint\\FrontEnd\\FrontEnd.csproj",
+      "packagesPath": "C:\\Users\\Intern017\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHubMvc\\GitMvcDemoCasePoint\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\patel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Intern017\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
